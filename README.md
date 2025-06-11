@@ -29,7 +29,6 @@ A basic Windows security setup demonstrating the enforcement of password complex
 - **Email:** frankkmwangi@example.com  
 - **GitHub:** [@frankkmwangi](https://github.com/frankkmwangi)  
 - **LinkedIn:** [linkedin.com/in/frankkmwangi](https://linkedin.com/in/frankkmwangi)  
-- **Phone:** +254-700-000000
 
 ---
 
