@@ -1,5 +1,6 @@
 title: "Frank Mwangi's Portfolio"
 description: "My Projects"
+baseurl: ""
 url: "https://frankkmwangi.github.io" 
 theme: minima
 markdown: kramdown
