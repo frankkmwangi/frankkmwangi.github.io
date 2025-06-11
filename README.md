@@ -26,7 +26,7 @@ A basic Windows security setup demonstrating the enforcement of password complex
 
 ## 📫 Contact Me
 
-- **Email:** frankkmwangi@example.com  
+- **Email:** frankkarogo@gmail.com  
 - **GitHub:** [@frankkmwangi](https://github.com/frankkmwangi)  
 - **LinkedIn:** [linkedin.com/in/frankkmwangi](https://linkedin.com/in/frankkmwangi)  
 
