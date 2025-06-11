@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Network Packet Analysis using Wireshark</title>
+</head>
+<body>
+  <h1>Network Packet Analysis using Wireshark</h1>
+
+  <h2>Problem Statement</h2>
+  <p>Analyze suspicious network traffic to identify potential security breaches or abnormal behavior within a LAN environment.</p>
+
+  <h2>Approach</h2>
+  <ul>
+    <li>Used a publicly available Wireshark capture file (PCAP) to simulate packet analysis.</li>
+    <li>Filtered traffic by IP, protocol (HTTP, DNS), and TCP flags.</li>
+    <li>Reviewed suspicious packets for signs of data exfiltration or port scanning.</li>
+  </ul>
+
+  <h2>Tools Used</h2>
+  <ul>
+    <li>Wireshark (open source)</li>
+    <li>Sample PCAP file from <a href="https://wiki.wireshark.org/SampleCaptures" target="_blank">Wireshark Sample Captures</a></li>
+  </ul>
+
+  <h2>Screenshots</h2>
+  <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Wireshark_capture_interfaces.png/640px-Wireshark_capture_interfaces.png" alt="Wireshark Screenshot" width="600"><br>
+  <small>Image Credit: Wikimedia Commons, CC BY-SA 4.0</small></p>
+
+  <h2>Key Lessons Learned</h2>
+  <ul>
+    <li>How to use filters like <code>http</code>, <code>tcp.flags.syn == 1</code>, and <code>ip.addr == x.x.x.x</code>.</li>
+    <li>Recognizing patterns of scanning and large data transfers.</li>
+    <li>Importance of traffic inspection in identifying cybersecurity threats.</li>
+  </ul>
+
+  <p><a href="index.html">⬅ Back to Home</a></p>
+</body>
+</html>
